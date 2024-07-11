@@ -18,7 +18,7 @@ This project scrapes Python developer job listings from a job portal and analyze
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/python-job-market-analysis.git
+    git clone https://github.com/Gilgumish/python-job-market-analysis.git
     cd python-job-market-analysis
     ```
 
