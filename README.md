@@ -7,7 +7,6 @@ This project scrapes Python developer job listings from a job portal and analyze
 - Distribution of vacancies by cities
 - Popularity of technologies in job descriptions
 - Technology mentions by experience level (Junior, Mid, Senior)
-- Correlation analysis between different technologies, experience levels, and cities
 
 ![Python Job Market Analysis](Python-market-analise.png)
 
@@ -18,7 +17,7 @@ This project scrapes Python developer job listings from a job portal and analyze
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/python-job-market-analysis.git
+    git clone https://github.com/Gilgumish/python-job-market-analysis.git
     cd python-job-market-analysis
     ```
 
